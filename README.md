@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Saif Kazi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Soft+Computing+Explorer;Machine+Learning+Practitioner;Tech+Curious+and+Always+Learning&center=true&width=500&height=30" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+Enthusiast;Soft+Computing+Explorer;Machine+Learning+Practitioner;Tech+Curious+and+Always+Learning&center=true&width=500&height=30" />
 </p>
 
 ---
@@ -45,13 +45,6 @@
 - 🤝 **Friend Suggestion System** using Graph Algorithms (DFS/BFS)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" width="48%" />
-</div>
 
 ---
 
