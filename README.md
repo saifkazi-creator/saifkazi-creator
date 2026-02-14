@@ -138,13 +138,20 @@ Goal: Production-ready NLP intelligence platform.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:saifkazi403@gmail.com?subject=Opportunity%20Discussion&body=Hi%20Saif,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/saif-kazi-7a793b28a">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/saifkazi403">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
 
----
-
-> “I build systems, not just models.”
-
-⭐ Always open to collaborating on meaningful ML, NLP, and GenAI projects.
+<p align="center">
+  📍 Pune, India <br>
+  💼 Open to Machine Learning / NLP / GenAI Internships
+</p>
