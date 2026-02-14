@@ -1,137 +1,136 @@
-<h1 align="center">Hey there, I'm Saif Kazi 👋</h1>
+<h1 align="center">Saif Kazi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer+in+Progress;GenAI+%7C+MLOps+Explorer;Building+End-to-End+AI+Systems;Always+Learning+Always+Building&center=true&width=550&height=30" />
+  <b>Machine Learning Engineer | NLP & GenAI Systems Builder | MLOps Explorer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+End-to-End+AI+Systems;From+Data+to+Deployment;NLP+%7C+RAG+%7C+Agentic+AI;ML+Engineer+in+Progress&center=true&width=550&height=30" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile Summary
 
-🎓 3rd-year Data Science student passionate about building **real-world AI systems**
+🎓 3rd-Year Data Science Student  
+📍 Pune, India  
 
-I don’t just train models — I build complete pipelines from  
-**data → preprocessing → modeling → evaluation → deployment**
+I design and build **end-to-end Machine Learning & NLP systems** — from raw data to deployable applications.
 
-💡 Strong interest in:
-- Machine Learning & Deep Learning  
-- NLP & Generative AI  
-- Agentic AI systems  
-- MLOps & LLMOps  
-- Production-ready AI applications  
+I focus on:
+- Production-oriented ML pipelines  
+- NLP & Retrieval-Augmented Generation (RAG) systems  
+- Agentic AI workflows  
+- Applying ML in real-world industrial settings  
 
-Currently focused on transforming ML projects into **deployable, scalable systems**.
+I care about system design, reproducibility, and practical impact — not just notebooks.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Stack
 
-### 👨‍💻 Programming
-- Python  
-- C++  
-- SQL  
+### 💻 Languages
+- Python
+- C++
+- SQL
 
-### 📊 Data Analysis & Visualization
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Preprocessing  
-- Feature Engineering  
-- Power BI  
+### 📊 Data & Analytics
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Preprocessing
+- Power BI
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Machine Learning
 - Scikit-learn (Regression, Classification, Pipelines)
-- Model Evaluation & Cross Validation
-- Feature Scaling & Transformation
-- Neural Networks (Foundations)
-- Deep Learning Basics
+- Cross-Validation & Model Evaluation
+- Scaling & Transformations
+- End-to-End ML Workflows
+- Deep Learning Foundations
 
-### 🧠 NLP & LLM Ecosystem
-- LangChain  
-- LangGraph  
-- LangSmith  
-- Prompt Engineering  
-- Structured Output Parsing  
-- Agentic Workflows  
-
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Streamlit  
-- Jupyter Notebook  
-- Docker (learning & implementing)  
-- FastAPI (learning for ML deployment)
-
----
-
-## 🚀 Featured Projects
-
-### 1️⃣ PRNU Image Authentication System
-
-📌 Wavelet-domain PRNU based image authentication system  
-Built to verify whether an image originates from an enrolled camera sensor.
-
-🔹 Extracted PRNU fingerprints  
-🔹 Applied wavelet-domain analysis  
-🔹 Designed verification pipeline  
-🔹 Focused on signal-level feature extraction  
-
-**Domain:** Digital Image Forensics / Signal Processing
-
----
-
-### 2️⃣ Agentic AI-Based Knowledge Assistant  
-**For Maintenance Support in Flour Manufacturing Plants**
-
-An LLM-powered industrial assistant built using:
+### 🧠 NLP & GenAI
 - LangChain
+- LangGraph
+- LangSmith
+- Prompt Engineering
+- Structured Output Parsing
+- Agentic Workflows
 - Retrieval-Augmented Generation (RAG)
-- Custom document ingestion pipeline
-- Vector database integration
 
-🔹 Enables contextual Q&A over maintenance manuals  
-🔹 Designed for real-world industrial troubleshooting  
-🔹 Focus on structured retrieval + grounded generation  
-
-**Domain:** Industrial AI + RAG + LLMOps
-
----
-
-### 3️⃣ SignalWatch — NLP-Based Customer Issue Intelligence Platform  
-*(Currently Building – End-to-End MLOps)*
-
-A full NLP + ML system for analyzing customer complaints at scale.
-
-🔹 Text preprocessing & cleaning  
-🔹 Feature extraction & vectorization  
-🔹 Sentiment analysis  
-🔹 Topic intelligence & issue clustering  
-🔹 Simulated streaming pipeline  
-🔹 Designed with MLOps principles  
-
-Goal: Production-ready NLP intelligence platform.
-
-**Domain:** NLP + MLOps + Scalable ML Systems
+### ⚙️ Deployment & Tools
+- Git & GitHub
+- Streamlit
+- Docker (in progress)
+- FastAPI (in progress)
+- Jupyter Notebook
 
 ---
 
-## 🔁 Current Learning Focus
+# 🚀 Featured Projects
 
-- 🐳 Docker for reproducible ML environments  
-- ⚡ FastAPI for model deployment  
-- 📚 Advanced NLP  
-- 🔍 Retrieval-Augmented Generation (RAG) systems  
-- 📦 End-to-End ML Deployment  
+## 🔐 PRNU Image Authentication System  
+**Digital Image Forensics | Signal Processing**
+
+Wavelet-domain PRNU-based system to verify if an image originates from a registered camera sensor.
+
+✔ Extracted sensor-level PRNU fingerprints  
+✔ Applied wavelet-domain noise modeling  
+✔ Designed verification & matching pipeline  
+✔ Focused on signal-level feature extraction  
+
+Demonstrates: Feature engineering, signal processing, system validation logic.
 
 ---
 
-## 🧩 What Makes My Work Different?
+## 🏭 Agentic AI Knowledge Assistant  
+**Industrial AI | RAG | LLMOps**
 
-✔️ I focus on complete pipelines, not just notebooks  
-✔️ I enjoy debugging deep system-level ML issues  
-✔️ I combine ML + GenAI + system thinking  
-✔️ I build projects with real-world application intent  
+LLM-powered maintenance assistant for flour manufacturing plants.
+
+✔ Custom document ingestion pipeline  
+✔ Vector database integration  
+✔ Retrieval-Augmented Generation (RAG)  
+✔ Context-aware Q&A over technical manuals  
+✔ Designed for real-world industrial troubleshooting  
+
+Demonstrates: System architecture, RAG pipelines, applied GenAI.
+
+---
+
+## 📊 SignalWatch — NLP Customer Issue Intelligence Platform  
+**NLP | End-to-End MLOps | Scalable ML System**
+
+Currently building a production-oriented NLP pipeline for large-scale customer complaint analysis.
+
+✔ Text preprocessing & cleaning pipeline  
+✔ Feature extraction & vectorization  
+✔ Sentiment analysis  
+✔ Topic intelligence & issue clustering  
+✔ Simulated streaming workflow  
+✔ Designed with MLOps principles  
+
+Goal: Build a deployable, scalable NLP intelligence platform.
+
+---
+
+## 🔁 Currently Strengthening
+
+- Dockerized ML systems  
+- FastAPI-based model deployment  
+- Advanced NLP pipelines  
+- Scalable RAG architectures  
+- End-to-End ML deployment workflows  
+
+---
+
+## 🧩 What Sets Me Apart
+
+✔ I build systems, not just models  
+✔ I focus on production readiness  
+✔ I enjoy debugging complex ML environments  
+✔ I apply ML to real industrial use-cases  
+✔ I continuously evolve projects beyond academic scope  
 
 ---
 
@@ -152,6 +151,5 @@ Goal: Production-ready NLP intelligence platform.
 </p>
 
 <p align="center">
-  📍 Pune, India <br>
   💼 Open to Machine Learning / NLP / GenAI Internships
 </p>
